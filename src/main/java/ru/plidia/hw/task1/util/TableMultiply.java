@@ -1,7 +1,7 @@
 package ru.plidia.hw.task1.util;
 
 public class TableMultiply {
-    public void multiply() {
+    public void printMultiplicationTable() {
         int num = 2;
         while (num <= 5) {
             int num1 = 1;

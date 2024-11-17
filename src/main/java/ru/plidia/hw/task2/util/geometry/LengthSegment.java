@@ -1,4 +1,4 @@
-package ru.plidia.hw.tasr2.util;
+package ru.plidia.hw.task2.util.geometry;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package ru.plidia.hw.tasr2.main;
+package ru.plidia.hw.task2.main;
 
-import ru.plidia.hw.tasr2.util.LengthSegment;
+import ru.plidia.hw.task2.util.geometry.LengthSegment;
 
 public class Main {
     public static void main(String[] args) {
